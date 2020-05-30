@@ -235,6 +235,7 @@ margin-right: auto;
 .university-container{
   display:flex;
   flex-direction: row-reverse;
+  margin-right: auto;
 }
 
 .university-text-container{
