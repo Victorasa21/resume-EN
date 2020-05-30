@@ -199,3 +199,45 @@ a:active {
   }
 }
 
+.company-img {
+  width:70px;
+  height:70px;
+  margin-right: 10px;
+}
+
+.company-img-kopf {
+  width:60px;
+  height:35px;
+  margin:10px 10px 10px 0
+}
+
+.company-img-trojanuv {
+  width:105px;
+  height:25px;
+  margin:10px 10px 10px 0
+}
+
+.company-img-edp {
+  width:60px;
+  height:60px;
+  margin: 10px 10px 0 0 ;
+}
+
+.company-container {
+  display:flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.company-container div {
+margin-right: auto;
+}
+
+.university-container{
+  display:flex;
+  flex-direction: row-reverse;
+}
+
+.university-text-container{
+display: flex;
+flex-direction: column;
+}
