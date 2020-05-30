@@ -242,3 +242,11 @@ margin-right: auto;
 display: flex;
 flex-direction: column;
 }
+
+@media (max-width:435px) {
+.university-container{
+  display:flex;
+  flex-direction: column-reverse;
+  margin-right: auto;
+}
+}
